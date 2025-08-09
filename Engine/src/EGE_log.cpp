@@ -2,31 +2,31 @@
 
 namespace EGE
 {
-	std::mutex Logger::Mutex;
-	std::queue<std::string> Logger::ErrorMessages;
-	std::queue<std::string> Logger::WarningMessages;
-	std::queue<std::string> Logger::NoteMessages;
-	std::queue<std::string> Logger::SuccessMessages;
-	size_t Logger::MessageCount = 0;
+	std::mutex Logger::m_Mutex;
+	std::queue<std::string> Logger::m_ErrorMessages;
+	std::queue<std::string> Logger::m_WarningMessages;
+	std::queue<std::string> Logger::m_NoteMessages;
+	std::queue<std::string> Logger::m_SuccessMessages;
+	size_t Logger::m_MessageCount = 0;
 
 	std::queue<std::string>* Logger::GetQueueOfType(LogType Type)
 	{
 		switch (Type)
 		{
 		case LogType::Error:
-			return &ErrorMessages;
+			return &m_ErrorMessages;
 			break;
 
 		case LogType::Warning:
-			return &WarningMessages;
+			return &m_WarningMessages;
 			break;
 
 		case LogType::Note:
-			return &NoteMessages;
+			return &m_NoteMessages;
 			break;
 
 		case LogType::Success:
-			return &SuccessMessages;
+			return &m_SuccessMessages;
 			break;
 
 		default:
@@ -39,7 +39,7 @@ namespace EGE
 	std::string Logger::GetFirstMessage(LogType Type)
 	{
 		//This makes the function thread-safe by elimitating race conditions
-		std::lock_guard<std::mutex> lock(Mutex);
+		std::lock_guard<std::mutex> lock(m_Mutex);
 
 		std::queue<std::string>* MessageQueue = GetQueueOfType(Type);
 	
@@ -51,17 +51,17 @@ namespace EGE
 		
 		std::string Message = MessageQueue->front(); //Retrieve message
 		MessageQueue->pop(); //Pop the message so that it is no longer in the queue
-		MessageCount--;
+		m_MessageCount--;
 		return Message;
 	}
 
 	bool Logger::AddMessage(const std::string& Message, LogType Type)
 	{
 		//This makes the function thread-safe by elimitating race conditions
-		std::lock_guard<std::mutex> lock(Mutex);
+		std::lock_guard<std::mutex> lock(m_Mutex);
 
 		//Message length check
-		if (Message.size() > MaxMessageSize)
+		if (Message.size() > m_MaxMessageSize)
 		{
 			return false;
 		}
@@ -74,29 +74,29 @@ namespace EGE
 		}
 
 		//Check if the message count is already at its max value
-		if (MessageCount > MaxMessages)
+		if (m_MessageCount > m_MaxMessages)
 		{
 			return false;
 		}
 
 		MessageQueue->push(Message);
 
-		MessageCount++;
+		m_MessageCount++;
 		return true;
 	}
 
 	LogType Logger::HasPendingMessage()
 	{
-		if (!ErrorMessages.empty())
+		if (!m_ErrorMessages.empty())
 			return LogType::Error;
 
-		else if (!WarningMessages.empty())
+		else if (!m_WarningMessages.empty())
 			return LogType::Warning;
 
-		else if (!NoteMessages.empty())
+		else if (!m_NoteMessages.empty())
 			return LogType::Note;
 
-		else if (!SuccessMessages.empty())
+		else if (!m_SuccessMessages.empty())
 			return LogType::Success;
 
 		else
