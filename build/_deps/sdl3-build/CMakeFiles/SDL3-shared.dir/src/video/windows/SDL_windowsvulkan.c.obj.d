@@ -1,12 +1,12 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/video/windows/SDL_windowsvulkan.c.obj: \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsvulkan.c \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_vulkan_internal.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsvulkan.c \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_vulkan_internal.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/msys64/mingw64/include/windows.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
  C:/msys64/mingw64/include/crtdefs.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdarg.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
  C:/msys64/mingw64/include/windef.h \
@@ -21,8 +21,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/video/windows/SDL_windowsvulkan.
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/include/basetsd.h C:/msys64/mingw64/include/guiddef.h \
  C:/msys64/mingw64/include/string.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/x86intrin.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/emmintrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86intrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h \
  C:/msys64/mingw64/include/pshpack4.h C:/msys64/mingw64/include/poppack.h \
  C:/msys64/mingw64/include/pshpack4.h \
  C:/msys64/mingw64/include/pshpack2.h C:/msys64/mingw64/include/poppack.h \
@@ -76,36 +76,36 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/video/windows/SDL_windowsvulkan.
  C:/msys64/mingw64/include/winsvc.h C:/msys64/mingw64/include/mcx.h \
  C:/msys64/mingw64/include/imm.h C:/msys64/mingw64/include/basetyps.h \
  C:/msys64/mingw64/include/mmreg.h C:/msys64/mingw64/include/pshpack1.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vulkan/vulkan.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vulkan/vk_platform.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stddef.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vulkan/vulkan.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vulkan/vk_platform.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
  C:/msys64/mingw64/include/stddef.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdint.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vulkan/vulkan_core.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h264std.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codecs_common.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h264std_encode.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h264std.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h265std.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h265std_encode.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h265std.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h264std_decode.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h265std_decode.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_av1std.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_av1std_decode.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_av1std.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vulkan/vulkan_win32.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_error.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_video.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsvideo.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_blit.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vulkan/vulkan_core.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h264std.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codecs_common.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h264std_encode.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h264std.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h265std.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h265std_encode.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h265std.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h264std_decode.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_h265std_decode.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_av1std.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_av1std_decode.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vk_video/vulkan_video_codec_av1std.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/vulkan/vulkan_win32.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_error.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_video.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsvideo.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_blit.h \
  C:/msys64/mingw64/include/dxgi.h C:/msys64/mingw64/include/rpc.h \
  C:/msys64/mingw64/include/rpcdce.h C:/msys64/mingw64/include/rpcdcep.h \
  C:/msys64/mingw64/include/rpcnsi.h C:/msys64/mingw64/include/rpcnterr.h \
@@ -125,25 +125,25 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/video/windows/SDL_windowsvulkan.
  C:/msys64/mingw64/include/ocidl.h C:/msys64/mingw64/include/dxgitype.h \
  C:/msys64/mingw64/include/dxgicommon.h \
  C:/msys64/mingw64/include/dxgiformat.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_msctf.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsclipboard.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsevents.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsgameinput.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsopengl.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsshape.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowskeyboard.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsmodes.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsmouse.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsopengles.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_egl_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_egl.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_platform_defines.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/egl.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/eglplatform.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_msctf.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsclipboard.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsevents.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsgameinput.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsopengl.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsshape.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowskeyboard.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsmodes.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsmouse.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsopengles.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_egl_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_egl.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_platform_defines.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/egl.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/eglplatform.h \
  C:/msys64/mingw64/include/KHR/khrplatform.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/eglext.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowswindow.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/eglext.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowswindow.h \
  C:/msys64/mingw64/include/shellscalingapi.h \
  C:/msys64/mingw64/include/shtypes.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsvulkan.h
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\windows\SDL_windowsvulkan.h

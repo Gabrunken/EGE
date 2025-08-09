@@ -1,17 +1,17 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/hidapi/SDL_hidapi.c.obj: \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\SDL_hidapi.c \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/joystick/usb_ids.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_hints_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\hidapi/hidapi.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\SDL_hidapi.c \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/joystick/usb_ids.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_hints_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\hidapi/hidapi.h \
  C:/msys64/mingw64/include/wchar.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/msys64/mingw64/include/windows.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
  C:/msys64/mingw64/include/crtdefs.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdarg.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
  C:/msys64/mingw64/include/windef.h \
@@ -26,8 +26,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/hidapi/SDL_hidapi.c.obj: \
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/include/basetsd.h C:/msys64/mingw64/include/guiddef.h \
  C:/msys64/mingw64/include/string.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/x86intrin.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/emmintrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86intrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h \
  C:/msys64/mingw64/include/pshpack4.h C:/msys64/mingw64/include/poppack.h \
  C:/msys64/mingw64/include/pshpack4.h \
  C:/msys64/mingw64/include/pshpack2.h C:/msys64/mingw64/include/poppack.h \
@@ -81,18 +81,18 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/hidapi/SDL_hidapi.c.obj: \
  C:/msys64/mingw64/include/winsvc.h C:/msys64/mingw64/include/mcx.h \
  C:/msys64/mingw64/include/imm.h C:/msys64/mingw64/include/basetyps.h \
  C:/msys64/mingw64/include/mmreg.h C:/msys64/mingw64/include/pshpack1.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/linux/SDL_udev.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/linux/SDL_udev.h \
  C:/msys64/mingw64/include/initguid.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_windows.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hid.c \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_winapi.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdint.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/hidapi/hidapi/hidapi.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_cfgmgr32.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\SDL_hidapi_windows.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hid.c \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_winapi.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/hidapi/hidapi/hidapi.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_cfgmgr32.h \
  C:/msys64/mingw64/include/devpropdef.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_hidclass.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_hidclass.h \
  C:/msys64/mingw64/include/winioctl.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_hidsdi.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_hidpi.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_descriptor_reconstruct.c \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_descriptor_reconstruct.h
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_hidsdi.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_hidpi.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_descriptor_reconstruct.c \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\hidapi\windows/hidapi_descriptor_reconstruct.h

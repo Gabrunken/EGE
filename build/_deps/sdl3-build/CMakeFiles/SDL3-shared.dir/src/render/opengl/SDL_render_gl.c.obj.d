@@ -1,21 +1,21 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/render/opengl/SDL_render_gl.c.obj: \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render\opengl\SDL_render_gl.c \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_error.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_video.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_blit.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_opengl.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_platform.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render\opengl\SDL_render_gl.c \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_error.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_video.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_blit.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_opengl.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_platform.h \
  C:/msys64/mingw64/include/windows.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
  C:/msys64/mingw64/include/crtdefs.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdarg.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
  C:/msys64/mingw64/include/windef.h \
@@ -30,8 +30,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/render/opengl/SDL_render_gl.c.ob
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/include/basetsd.h C:/msys64/mingw64/include/guiddef.h \
  C:/msys64/mingw64/include/string.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/x86intrin.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/emmintrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86intrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h \
  C:/msys64/mingw64/include/pshpack4.h C:/msys64/mingw64/include/poppack.h \
  C:/msys64/mingw64/include/pshpack4.h \
  C:/msys64/mingw64/include/pshpack2.h C:/msys64/mingw64/include/poppack.h \
@@ -84,11 +84,11 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/render/opengl/SDL_render_gl.c.ob
  C:/msys64/mingw64/include/sec_api/stralign_s.h \
  C:/msys64/mingw64/include/winsvc.h C:/msys64/mingw64/include/mcx.h \
  C:/msys64/mingw64/include/imm.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_opengl_glext.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdint.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/render/SDL_sysrender.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/render/SDL_yuv_sw_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render\opengl\SDL_shaders_gl.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_pixels_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render\opengl\SDL_glfuncs.h
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_opengl_glext.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/render/SDL_sysrender.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/render/SDL_yuv_sw_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render\opengl\SDL_shaders_gl.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_pixels_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render\opengl\SDL_glfuncs.h

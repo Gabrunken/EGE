@@ -142,7 +142,7 @@
 /* #undef HAVE_ISINF */
 /* #undef HAVE_ISINFF */
 #define HAVE_ISINF_FLOAT_MACRO 1
-/* #undef HAVE_ISNAN */
+#define HAVE_ISNAN 1
 /* #undef HAVE_ISNANF */
 #define HAVE_ISNAN_FLOAT_MACRO 1
 #define HAVE_LOG 1

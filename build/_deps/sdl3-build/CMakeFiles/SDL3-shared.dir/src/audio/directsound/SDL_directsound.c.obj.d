@@ -1,14 +1,14 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/audio/directsound/SDL_directsound.c.obj: \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\audio\directsound\SDL_directsound.c \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/audio/SDL_sysaudio.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\audio\directsound\SDL_directsound.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_directx.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\audio\directsound\SDL_directsound.c \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/audio/SDL_sysaudio.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\audio\directsound\SDL_directsound.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_directx.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/msys64/mingw64/include/windows.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
  C:/msys64/mingw64/include/crtdefs.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdarg.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
  C:/msys64/mingw64/include/windef.h \
@@ -23,8 +23,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/audio/directsound/SDL_directsoun
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/include/basetsd.h C:/msys64/mingw64/include/guiddef.h \
  C:/msys64/mingw64/include/string.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/x86intrin.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/emmintrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86intrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h \
  C:/msys64/mingw64/include/pshpack4.h C:/msys64/mingw64/include/poppack.h \
  C:/msys64/mingw64/include/pshpack4.h \
  C:/msys64/mingw64/include/pshpack2.h C:/msys64/mingw64/include/poppack.h \
@@ -78,10 +78,17 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/audio/directsound/SDL_directsoun
  C:/msys64/mingw64/include/winsvc.h C:/msys64/mingw64/include/mcx.h \
  C:/msys64/mingw64/include/imm.h C:/msys64/mingw64/include/basetyps.h \
  C:/msys64/mingw64/include/mmreg.h C:/msys64/mingw64/include/pshpack1.h \
- C:/msys64/mingw64/include/mmsystem.h C:/msys64/mingw64/include/ddraw.h \
- C:/msys64/mingw64/include/objbase.h C:/msys64/mingw64/include/rpc.h \
- C:/msys64/mingw64/include/rpcdce.h C:/msys64/mingw64/include/rpcdcep.h \
- C:/msys64/mingw64/include/rpcnsi.h C:/msys64/mingw64/include/rpcnterr.h \
+ C:/msys64/mingw64/include/mmsystem.h \
+ C:/msys64/mingw64/include/mmsyscom.h C:/msys64/mingw64/include/mciapi.h \
+ C:/msys64/mingw64/include/mmiscapi.h \
+ C:/msys64/mingw64/include/mmiscapi2.h \
+ C:/msys64/mingw64/include/playsoundapi.h \
+ C:/msys64/mingw64/include/mmeapi.h C:/msys64/mingw64/include/timeapi.h \
+ C:/msys64/mingw64/include/joystickapi.h \
+ C:/msys64/mingw64/include/ddraw.h C:/msys64/mingw64/include/objbase.h \
+ C:/msys64/mingw64/include/rpc.h C:/msys64/mingw64/include/rpcdce.h \
+ C:/msys64/mingw64/include/rpcdcep.h C:/msys64/mingw64/include/rpcnsi.h \
+ C:/msys64/mingw64/include/rpcnterr.h \
  C:/msys64/mingw64/include/rpcasync.h C:/msys64/mingw64/include/rpcndr.h \
  C:/msys64/mingw64/include/rpcnsip.h C:/msys64/mingw64/include/rpcsal.h \
  C:/msys64/mingw64/include/combaseapi.h \
@@ -96,9 +103,9 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/audio/directsound/SDL_directsoun
  C:/msys64/mingw64/include/propidl.h \
  C:/msys64/mingw64/include/_mingw_dxhelper.h \
  C:/msys64/mingw64/include/dsound.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/float.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/float.h \
  C:/msys64/mingw64/include/float.h C:/msys64/mingw64/include/dinput.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_immdevice.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_immdevice.h \
  C:/msys64/mingw64/include/mmdeviceapi.h \
  C:/msys64/mingw64/include/propsys.h C:/msys64/mingw64/include/ocidl.h \
  C:/msys64/mingw64/include/shtypes.h \

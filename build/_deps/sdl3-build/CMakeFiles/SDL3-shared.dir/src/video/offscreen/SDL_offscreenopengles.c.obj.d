@@ -1,27 +1,27 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/video/offscreen/SDL_offscreenopengles.c.obj: \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenopengles.c \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenopengles.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_error.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_video.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_blit.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_egl_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_egl.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_platform_defines.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/egl.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/eglplatform.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenopengles.c \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenopengles.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_error.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_video.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_blit.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_egl_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_egl.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_platform_defines.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/egl.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/eglplatform.h \
  C:/msys64/mingw64/include/KHR/khrplatform.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdint.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
  C:/msys64/mingw64/include/windows.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
  C:/msys64/mingw64/include/crtdefs.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdarg.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
  C:/msys64/mingw64/include/windef.h \
@@ -36,8 +36,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/video/offscreen/SDL_offscreenope
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/include/basetsd.h C:/msys64/mingw64/include/guiddef.h \
  C:/msys64/mingw64/include/string.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/x86intrin.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/emmintrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86intrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h \
  C:/msys64/mingw64/include/pshpack4.h C:/msys64/mingw64/include/poppack.h \
  C:/msys64/mingw64/include/pshpack4.h \
  C:/msys64/mingw64/include/pshpack2.h C:/msys64/mingw64/include/poppack.h \
@@ -90,7 +90,7 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/video/offscreen/SDL_offscreenope
  C:/msys64/mingw64/include/sec_api/stralign_s.h \
  C:/msys64/mingw64/include/winsvc.h C:/msys64/mingw64/include/mcx.h \
  C:/msys64/mingw64/include/imm.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/eglext.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenvideo.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenwindow.h
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/khronos/EGL/eglext.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenvideo.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video\offscreen\SDL_offscreenwindow.h

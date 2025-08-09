@@ -1,14 +1,14 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/joystick/windows/SDL_rawinputjoystick.c.obj: \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\joystick\windows\SDL_rawinputjoystick.c \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/joystick/usb_ids.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/joystick/SDL_sysjoystick.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/joystick/SDL_joystick_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\joystick\windows\SDL_rawinputjoystick.c \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/joystick/usb_ids.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/joystick/SDL_sysjoystick.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/joystick/SDL_joystick_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/msys64/mingw64/include/windows.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
  C:/msys64/mingw64/include/crtdefs.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdarg.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
  C:/msys64/mingw64/include/windef.h \
@@ -23,8 +23,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/joystick/windows/SDL_rawinputjoy
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/include/basetsd.h C:/msys64/mingw64/include/guiddef.h \
  C:/msys64/mingw64/include/string.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/x86intrin.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/emmintrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86intrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h \
  C:/msys64/mingw64/include/pshpack4.h C:/msys64/mingw64/include/poppack.h \
  C:/msys64/mingw64/include/pshpack4.h \
  C:/msys64/mingw64/include/pshpack2.h C:/msys64/mingw64/include/poppack.h \
@@ -78,11 +78,11 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/joystick/windows/SDL_rawinputjoy
  C:/msys64/mingw64/include/winsvc.h C:/msys64/mingw64/include/mcx.h \
  C:/msys64/mingw64/include/imm.h C:/msys64/mingw64/include/basetyps.h \
  C:/msys64/mingw64/include/mmreg.h C:/msys64/mingw64/include/pshpack1.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_hid.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/joystick/hidapi/SDL_hidapijoystick_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/joystick/usb_ids.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_xinput.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_hid.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/joystick/hidapi/SDL_hidapijoystick_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/joystick/usb_ids.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_xinput.h \
  C:/msys64/mingw64/include/xinput.h \
  C:/msys64/mingw64/include/windows.gaming.input.h \
  C:/msys64/mingw64/include/rpc.h C:/msys64/mingw64/include/rpcdce.h \
@@ -108,6 +108,7 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/joystick/windows/SDL_rawinputjoy
  C:/msys64/mingw64/include/windowscontracts.h \
  C:/msys64/mingw64/include/windows.foundation.h \
  C:/msys64/mingw64/include/windows.foundation.collections.h \
+ C:/msys64/mingw64/include/ivectorchangedeventargs.h \
  C:/msys64/mingw64/include/windows.devices.haptics.h \
  C:/msys64/mingw64/include/windows.gaming.input.forcefeedback.h \
  C:/msys64/mingw64/include/windows.foundation.numerics.h \

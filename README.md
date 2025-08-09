@@ -20,5 +20,6 @@ This software is built in C++, and uses SDL (Simple DirectMedia Library) for its
 
 You will need a compiler such as Clang or GCC.
 
-Run the build.bat file.
+Run the build_fresh.bat file if it the FIRST time building this in your pc.
+Run the build.bat file if it is NOT the first time building this in your pc.
 

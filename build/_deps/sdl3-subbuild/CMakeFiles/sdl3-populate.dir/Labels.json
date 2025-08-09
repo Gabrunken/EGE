@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate"
 		},
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate.rule"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate.rule"
 		},
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate-complete.rule"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate-complete.rule"
 		},
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build.rule"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build.rule"
 		},
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure.rule"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure.rule"
 		},
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download.rule"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download.rule"
 		},
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install.rule"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install.rule"
 		},
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir.rule"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir.rule"
 		},
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch.rule"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch.rule"
 		},
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test.rule"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test.rule"
 		},
 		{
-			"file" : "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update.rule"
+			"file" : "C:/Dev/Git/EGE/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update.rule"
 		}
 	],
 	"target" : 

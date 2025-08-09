@@ -1,1 +1,1 @@
--IC:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/Engine/include -I"C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-build/include-revision" -I"C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include"
+-IC:/Dev/Git/EGE/Engine/include -I"C:/Dev/Git/EGE/build/_deps/sdl3-build/include-revision" -I"C:/Dev/Git/EGE/build/_deps/sdl3-src/include"

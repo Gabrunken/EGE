@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/Engine/src/EGE_log.cpp" "Engine/CMakeFiles/Engine.dir/src/EGE_log.cpp.obj" "gcc" "Engine/CMakeFiles/Engine.dir/src/EGE_log.cpp.obj.d"
+  "C:/Dev/Git/EGE/Engine/src/EGE_log.cpp" "Engine/CMakeFiles/Engine.dir/src/EGE_log.cpp.obj" "gcc" "Engine/CMakeFiles/Engine.dir/src/EGE_log.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

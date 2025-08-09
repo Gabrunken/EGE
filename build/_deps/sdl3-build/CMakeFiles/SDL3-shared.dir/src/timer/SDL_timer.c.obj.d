@@ -1,15 +1,15 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/timer/SDL_timer.c.obj: \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\timer\SDL_timer.c \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\timer\SDL_timer_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/thread/SDL_systhread.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/thread/SDL_thread_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/thread/windows/SDL_systhread_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\timer\SDL_timer.c \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\timer\SDL_timer_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/thread/SDL_systhread.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/thread/SDL_thread_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/thread/windows/SDL_systhread_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/msys64/mingw64/include/windows.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
  C:/msys64/mingw64/include/crtdefs.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdarg.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
  C:/msys64/mingw64/include/windef.h \
@@ -24,8 +24,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/timer/SDL_timer.c.obj: \
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/include/basetsd.h C:/msys64/mingw64/include/guiddef.h \
  C:/msys64/mingw64/include/string.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/x86intrin.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/emmintrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86intrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h \
  C:/msys64/mingw64/include/pshpack4.h C:/msys64/mingw64/include/poppack.h \
  C:/msys64/mingw64/include/pshpack4.h \
  C:/msys64/mingw64/include/pshpack2.h C:/msys64/mingw64/include/poppack.h \
@@ -79,6 +79,12 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/timer/SDL_timer.c.obj: \
  C:/msys64/mingw64/include/winsvc.h C:/msys64/mingw64/include/mcx.h \
  C:/msys64/mingw64/include/imm.h C:/msys64/mingw64/include/basetyps.h \
  C:/msys64/mingw64/include/mmreg.h C:/msys64/mingw64/include/pshpack1.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_error_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:/msys64/mingw64/include/mmsystem.h
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_error_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:/msys64/mingw64/include/mmsystem.h \
+ C:/msys64/mingw64/include/mmsyscom.h C:/msys64/mingw64/include/mciapi.h \
+ C:/msys64/mingw64/include/mmiscapi.h \
+ C:/msys64/mingw64/include/mmiscapi2.h \
+ C:/msys64/mingw64/include/playsoundapi.h \
+ C:/msys64/mingw64/include/mmeapi.h C:/msys64/mingw64/include/timeapi.h \
+ C:/msys64/mingw64/include/joystickapi.h

@@ -1,11 +1,11 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/render/direct3d11/SDL_shaders_d3d11.c.obj: \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\SDL_shaders_d3d11.c \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\SDL_shaders_d3d11.c \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/msys64/mingw64/include/windows.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
  C:/msys64/mingw64/include/crtdefs.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdarg.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
  C:/msys64/mingw64/include/windef.h \
@@ -20,8 +20,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/render/direct3d11/SDL_shaders_d3
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/include/basetsd.h C:/msys64/mingw64/include/guiddef.h \
  C:/msys64/mingw64/include/string.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/x86intrin.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/emmintrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86intrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h \
  C:/msys64/mingw64/include/pshpack4.h C:/msys64/mingw64/include/poppack.h \
  C:/msys64/mingw64/include/pshpack4.h \
  C:/msys64/mingw64/include/pshpack2.h C:/msys64/mingw64/include/poppack.h \
@@ -101,13 +101,13 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/render/direct3d11/SDL_shaders_d3
  C:/msys64/mingw64/include/d3d10misc.h C:/msys64/mingw64/include/d3d10.h \
  C:/msys64/mingw64/include/d3d10shader.h \
  C:/msys64/mingw64/include/d3d10effect.h \
+ C:/msys64/mingw64/include/d3d10shader.h \
  C:/msys64/mingw64/include/d3d10_1shader.h \
  C:/msys64/mingw64/include/d3d11sdklayers.h \
  C:/msys64/mingw64/include/d3d10misc.h \
- C:/msys64/mingw64/include/d3d10shader.h \
  C:/msys64/mingw64/include/d3d10effect.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\SDL_shaders_d3d11.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\D3D11_PixelShader_Colors.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\D3D11_PixelShader_Textures.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\D3D11_PixelShader_Advanced.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\D3D11_VertexShader.h
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\SDL_shaders_d3d11.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\D3D11_PixelShader_Colors.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\D3D11_PixelShader_Textures.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\D3D11_PixelShader_Advanced.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render\direct3d11\D3D11_VertexShader.h

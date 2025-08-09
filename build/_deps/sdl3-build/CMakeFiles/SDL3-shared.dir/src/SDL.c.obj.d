@@ -1,12 +1,12 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/SDL.c.obj: \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\SDL.c \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\SDL_internal.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-build/include-revision/SDL3/SDL_revision.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\core/windows/SDL_windows.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\SDL.c \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\SDL_internal.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-build/include-revision/SDL3/SDL_revision.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\core/windows/SDL_windows.h \
  C:/msys64/mingw64/include/windows.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/sdkddkver.h C:/msys64/mingw64/include/excpt.h \
  C:/msys64/mingw64/include/crtdefs.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stdarg.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/msys64/mingw64/include/stdarg.h \
  C:/msys64/mingw64/include/_mingw_stdarg.h \
  C:/msys64/mingw64/include/windef.h \
@@ -21,8 +21,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/SDL.c.obj: \
  C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
  C:/msys64/mingw64/include/basetsd.h C:/msys64/mingw64/include/guiddef.h \
  C:/msys64/mingw64/include/string.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/x86intrin.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/emmintrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86intrin.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h \
  C:/msys64/mingw64/include/pshpack4.h C:/msys64/mingw64/include/poppack.h \
  C:/msys64/mingw64/include/pshpack4.h \
  C:/msys64/mingw64/include/pshpack2.h C:/msys64/mingw64/include/poppack.h \
@@ -76,55 +76,55 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/SDL.c.obj: \
  C:/msys64/mingw64/include/winsvc.h C:/msys64/mingw64/include/mcx.h \
  C:/msys64/mingw64/include/imm.h C:/msys64/mingw64/include/basetyps.h \
  C:/msys64/mingw64/include/mmreg.h C:/msys64/mingw64/include/pshpack1.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\core/linux/SDL_dbus.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\SDL_assert_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\SDL_hints_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\SDL_log_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\SDL_properties_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\audio/SDL_sysaudio.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\camera/SDL_camera_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\cpuinfo/SDL_cpuinfo_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\events/SDL_events_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_error.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_video.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_blit.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\events/SDL_clipboardevents_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\events/SDL_displayevents_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\events/SDL_dropevents_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\events/SDL_keyboard_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\events/SDL_keymap_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\events/SDL_mouse_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\events/SDL_touch_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\events/SDL_pen_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\events/SDL_windowevents_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\haptic/SDL_haptic_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\joystick/SDL_gamepad_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\joystick/SDL_joystick_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render/SDL_sysrender.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\render/SDL_yuv_sw_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\sensor/SDL_sensor_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\stdlib/SDL_getenv_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\thread/SDL_thread_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\thread/windows/SDL_systhread_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_error_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\tray/SDL_tray_utils.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video/SDL_pixels_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video/SDL_blit.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video/SDL_surface_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\video/SDL_video_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\filesystem/SDL_filesystem_c.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\io/SDL_asyncio_c.h \
- C:/Users/gabri/OneDrive/Desktop/Cose/Projects/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\gabri\OneDrive\Desktop\Cose\Projects\Git\EGE\build\_deps\sdl3-src\src\timer/SDL_timer_c.h
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\core/linux/SDL_dbus.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\SDL_assert_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\SDL_hints_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\SDL_log_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\SDL_properties_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\audio/SDL_sysaudio.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\camera/SDL_camera_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\cpuinfo/SDL_cpuinfo_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\events/SDL_events_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_error.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_video.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_blit.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\events/SDL_clipboardevents_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\events/SDL_displayevents_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\events/SDL_dropevents_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\events/SDL_keyboard_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\events/SDL_keymap_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\events/SDL_mouse_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\events/SDL_touch_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\events/SDL_pen_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\events/SDL_windowevents_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\haptic/SDL_haptic_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\joystick/SDL_gamepad_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\joystick/SDL_joystick_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render/SDL_sysrender.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\render/SDL_yuv_sw_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\sensor/SDL_sensor_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\stdlib/SDL_getenv_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\thread/SDL_thread_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\thread/windows/SDL_systhread_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_error_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\tray/SDL_tray_utils.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video/SDL_pixels_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video/SDL_blit.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video/SDL_surface_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\video/SDL_video_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\filesystem/SDL_filesystem_c.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\io/SDL_asyncio_c.h \
+ C:/Dev/Git/EGE/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Dev\Git\EGE\build\_deps\sdl3-src\src\timer/SDL_timer_c.h
