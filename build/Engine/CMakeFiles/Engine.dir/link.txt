@@ -1,2 +1,0 @@
-C:\msys64\mingw64\bin\ar.exe qc libEngine.a CMakeFiles/Engine.dir/src/EGE_log.cpp.obj
-C:\msys64\mingw64\bin\ranlib.exe libEngine.a
